@@ -24,7 +24,7 @@ header{
     flex-direction: column;
     margin: 10px;
     flex-grow: 1;
-    background: #095B93;
+    background: cornflowerblue;
     border-radius: 5px;
     box-shadow: 5px 5px 10px;
 }
@@ -63,7 +63,7 @@ h2{
 
 #srchText{
     width: 100%;
-    background: #095B93;
+    background: cornflowerblue;
     margin: 1px;
     border-radius: 5px;
     padding: 10px;
@@ -81,7 +81,7 @@ h2{
     display: flex;
     flex-direction: column;
     width: 150px;
-    background: #095B93;
+    background: cornflowerblue;
     margin: 5px;
     padding: 20px;
     border-radius: 5px;
@@ -95,7 +95,7 @@ h2{
 }
 
 p{
-    color: #FFCC57;
+    color: red;
     padding-left: 10px;
     font-size: 1rem;
     font-weight: bold;
